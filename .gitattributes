@@ -1,0 +1,6 @@
+# 忽略 Fortran
+*.f90 linguist-detectable=false
+*.for linguist-detectable=false
+
+# 強制把 .m 視為 MATLAB
+*.m linguist-language=MATLAB
